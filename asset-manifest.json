@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/teso_dep/static/css/main.073c9b0a.css",
-    "main.js": "/teso_dep/static/js/main.a0a6e364.js",
+    "main.css": "/teso_dep/static/css/main.e3c9802a.css",
+    "main.js": "/teso_dep/static/js/main.45e76da6.js",
     "static/js/787.d3befce1.chunk.js": "/teso_dep/static/js/787.d3befce1.chunk.js",
-    "static/media/logo.svg": "/teso_dep/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/teso_dep/index.html",
-    "main.073c9b0a.css.map": "/teso_dep/static/css/main.073c9b0a.css.map",
-    "main.a0a6e364.js.map": "/teso_dep/static/js/main.a0a6e364.js.map",
+    "main.e3c9802a.css.map": "/teso_dep/static/css/main.e3c9802a.css.map",
+    "main.45e76da6.js.map": "/teso_dep/static/js/main.45e76da6.js.map",
     "787.d3befce1.chunk.js.map": "/teso_dep/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a0a6e364.js"
+    "static/css/main.e3c9802a.css",
+    "static/js/main.45e76da6.js"
   ]
 }
